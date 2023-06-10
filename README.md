@@ -3,7 +3,7 @@
   <img align="center" alt="mysql" height="90" width="150" src="./mysql.png">
 </p>
 
-> 🌱👨‍💻 - Knows how to install and access the MySQL database, performed queries with SELECT and filter with WHERE, added data to the database with INSERT, updated and deleted data with UPDATE and DELETE, structured your tables with CREATE TABLE and ALTER TABLE. I created this project using the Alura course.
+> 🌱👨‍💻 - Paginate your data with LIMIT, filter queries with HAVING, understand the difference between LEFT and RIGHT JOIN, know how to use Sub-Queries, use MySQL functions, sort your data using ORDER BY, group data with GROUP BY. I created this project using the Alura course.
 
 ## Download
 
